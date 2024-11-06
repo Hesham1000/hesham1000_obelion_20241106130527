@@ -11,7 +11,7 @@
     "author": "",
     "license": "ISC",
     "dependencies": {
-        "sequelize": "6.6.5",
+        "sequelize": "latest",
         "express": "latest",
         "cors": "latest",
         "mysql": "latest",
@@ -19,8 +19,8 @@
     },
     "devDependencies": {
         "sequelize": "6.6.5",
-        "eslint": "7.32.0",
+        "express": "4.17.1",
         "bcrypt": "latest",
-        "express": "4.17.1"
+        "eslint": "7.32.0"
     }
 }
